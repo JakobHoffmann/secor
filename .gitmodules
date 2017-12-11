@@ -1,0 +1,6 @@
+[submodule "secor_dataprocessor"]
+	path = secor_dataprocessor
+	url = git@github.com:FChris/secor_dataprocessor.git
+[submodule "secor_datalogger"]
+	path = secor_datalogger
+	url = git@github.com:FChris/secor_datalogger.git
