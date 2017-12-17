@@ -4,3 +4,6 @@
 [submodule "secor_datalogger"]
 	path = secor_datalogger
 	url = git@github.com:FChris/secor_datalogger.git
+[submodule "secor_datahub"]
+	path = secor_datahub
+	url = git@github.com:FChris/secor_datahub.git
